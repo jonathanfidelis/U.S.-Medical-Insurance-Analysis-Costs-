@@ -2,7 +2,7 @@
 
 Analyzing U.S medical insurance costs in Python
 
-This project is conducted with Python using data from Codecademy. The company provides students with the U.S Medical Insurace Costs dataset to build a portfolio.
+This project is conducted in Python using data from Codecademy. The company provides students with the U.S Medical Insurace Costs dataset to build a portfolio.
 
 
 I analyzed: 
